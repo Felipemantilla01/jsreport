@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "12ce58bf-b865-4d0c-a4c2-2b6561c4c9be",
+		"name": "REPORTES",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "generar reporte",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"data\": {\r\n        \"name\": \"Felipe\",\r\n        \"lastName\": \"Mantilla\",\r\n        \"charge\": \"Ingeniero\",\r\n        \"email\": \"felipemantilla@outlook.es\",\r\n        \"cel\": \"+(57) 321 218 3583\"\r\n    },\r\n    \"template\": {\r\n        \"name\": \"/saludo/saludo\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5488/api/report",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5488",
+					"path": [
+						"api",
+						"report"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

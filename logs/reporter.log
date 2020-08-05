@@ -1024,3 +1024,6 @@ Expecting 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', got 'EOF'
 2020-08-05T13:05:02.170Z - info: Starting rendering request 3 (user: null)
 2020-08-05T13:05:02.209Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
 2020-08-05T13:05:13.477Z - info: Rendering request 3 finished in 11308 ms
+2020-08-05T13:12:24.462Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-08-05T13:12:24.483Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-08-05T13:12:24.549Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
