@@ -1,0 +1,1026 @@
+2020-07-15T16:39:31.776Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-07-15T16:39:31.780Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-15T16:39:31.848Z - info: Extensions location cache not found, crawling directories
+2020-07-15T16:39:34.217Z - info: Found 35 extensions
+2020-07-15T16:39:34.509Z - debug: Writing extension locations cache to C:\Users\lenovo\AppData\Local\Temp\jsreport\core\locations.json
+2020-07-15T16:39:34.516Z - debug: Discovered 35 extensions
+2020-07-15T16:39:34.670Z - info: Setting http-server strategy for rendering
+2020-07-15T16:39:34.959Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-07-15T16:39:34.960Z - info: Using extension cli@2.2.3
+2020-07-15T16:39:34.977Z - info: Using extension debug@2.1.3
+2020-07-15T16:39:34.983Z - info: Using extension express@2.6.0
+2020-07-15T16:39:35.309Z - info: Using extension freeze@2.0.0
+2020-07-15T16:39:35.312Z - info: Using extension handlebars@2.1.0
+2020-07-15T16:39:35.316Z - info: Using extension import-export@1.6.0
+2020-07-15T16:39:35.406Z - info: Using extension jsrender@2.1.1
+2020-07-15T16:39:35.408Z - info: Using extension tags@2.3.0
+2020-07-15T16:39:35.413Z - info: Using extension templates@2.3.3
+2020-07-15T16:39:35.417Z - info: Using extension authorization@2.3.0
+2020-07-15T16:39:35.426Z - debug: Extension authorization@2.3.0 was disabled
+2020-07-15T16:39:35.427Z - info: Using extension base@2.0.2
+2020-07-15T16:39:35.442Z - info: Using extension browser-client@2.2.2
+2020-07-15T16:39:35.450Z - info: Using extension child-templates@1.3.2
+2020-07-15T16:39:35.460Z - info: Using extension chrome-pdf@1.8.0
+2020-07-15T16:39:35.584Z - debug: Chrome strategy is dedicated-process
+2020-07-15T16:39:35.585Z - info: Using extension data@2.2.0
+2020-07-15T16:39:35.587Z - info: Using extension docx@2.6.0
+2020-07-15T16:39:35.592Z - info: Using extension fs-store@2.8.0
+2020-07-15T16:39:35.793Z - debug: Extension fs-store@2.8.0 was disabled
+2020-07-15T16:39:35.799Z - info: Using extension licensing@2.2.2
+2020-07-15T16:39:35.831Z - info: Using extension pdf-utils@1.7.0
+2020-07-15T16:39:36.034Z - info: Using extension pptx@0.6.0
+2020-07-15T16:39:36.045Z - info: Using extension reports@2.3.0
+2020-07-15T16:39:36.059Z - info: Using extension static-pdf@0.3.1
+2020-07-15T16:39:36.077Z - info: Using extension studio@2.8.0
+2020-07-15T16:39:36.208Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-07-15T16:39:36.223Z - info: Using extension text@2.0.0
+2020-07-15T16:39:36.224Z - info: Using extension version-control@1.4.0
+2020-07-15T16:39:36.356Z - info: Using extension assets@1.5.3
+2020-07-15T16:39:36.375Z - info: Using extension html-to-xlsx@2.6.0
+2020-07-15T16:39:36.825Z - info: html-to-xlsx detected chrome as available html engine
+2020-07-15T16:39:36.826Z - info: Using extension scheduling@2.3.0
+2020-07-15T16:39:36.890Z - info: Using extension scripts@2.4.0
+2020-07-15T16:39:36.895Z - info: Using extension studio-theme-dark@0.3.0
+2020-07-15T16:39:36.897Z - info: Using extension xlsx@2.3.1
+2020-07-15T16:39:37.136Z - info: Using extension public-templates@2.1.0
+2020-07-15T16:39:37.145Z - debug: Extension public-templates@2.1.0 was disabled
+2020-07-15T16:39:37.148Z - info: Using extension resources@2.0.4
+2020-07-15T16:39:37.158Z - info: Using extension sample-template@2.5.1
+2020-07-15T16:39:37.165Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-07-15T16:39:37.174Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2020-07-15T16:39:37.203Z - debug: studio default theme is: light
+2020-07-15T16:39:37.262Z - info: Creating default express app.
+2020-07-15T16:39:37.294Z - info: jsreport server successfully started on http port: 5488
+2020-07-15T16:39:37.296Z - info: Verifying license key free
+2020-07-15T16:39:37.298Z - info: Using free license
+2020-07-15T16:39:37.310Z - debug: Creating samples is disabled
+2020-07-15T16:39:37.314Z - info: reporter initialized
+2020-07-15T16:40:19.134Z - debug: OData query on templates
+2020-07-15T16:40:19.139Z - debug: OData query on folders
+2020-07-15T16:40:19.187Z - debug: OData query on tags
+2020-07-15T16:40:19.191Z - debug: OData query on data
+2020-07-15T16:40:19.216Z - debug: OData query on assets
+2020-07-15T16:40:19.233Z - debug: OData query on scripts
+2020-07-15T16:40:19.243Z - debug: OData query on xlsxTemplates
+2020-07-15T16:40:19.287Z - debug: OData query on schedules
+2020-07-15T16:40:19.316Z - debug: OData query on settings
+2020-07-15T16:40:19.675Z - debug: OData query on templates
+2020-07-15T16:40:19.734Z - debug: OData query on settings
+2020-07-15T16:40:23.921Z - debug: Inserting samples
+2020-07-15T16:40:23.934Z - debug: Creating folder "samples" for sample entities
+2020-07-15T16:40:23.954Z - debug: Inserting sample entity Orders (entitySet: folders)
+2020-07-15T16:40:23.972Z - debug: Inserting sample entity Sales (entitySet: folders)
+2020-07-15T16:40:23.985Z - debug: Inserting sample entity Invoice (entitySet: folders)
+2020-07-15T16:40:23.993Z - debug: Inserting sample entity shared (entitySet: folders)
+2020-07-15T16:40:24.007Z - debug: Inserting sample entity sales-data (entitySet: data)
+2020-07-15T16:40:24.024Z - debug: Inserting sample entity invoice-data (entitySet: data)
+2020-07-15T16:40:24.041Z - debug: Inserting sample entity sales-main (entitySet: templates)
+2020-07-15T16:40:24.086Z - debug: Inserting sample entity orders-main (entitySet: templates)
+2020-07-15T16:40:24.089Z - debug: Inserting sample entity orders-header (entitySet: templates)
+2020-07-15T16:40:24.104Z - debug: Inserting sample entity invoice-main (entitySet: templates)
+2020-07-15T16:40:24.124Z - debug: Inserting sample entity orders-styles.css (entitySet: assets)
+2020-07-15T16:40:24.145Z - debug: Inserting sample entity sales-styles.css (entitySet: assets)
+2020-07-15T16:40:24.157Z - debug: Inserting sample entity invoice-styles.css (entitySet: assets)
+2020-07-15T16:40:24.202Z - debug: Inserting sample entity global helpers.js (entitySet: assets)
+2020-07-15T16:40:24.225Z - debug: Inserting sample entity invoice-logo.png (entitySet: assets)
+2020-07-15T16:40:24.239Z - debug: Inserting sample entity orders-script (entitySet: scripts)
+2020-07-15T16:40:24.295Z - debug: OData query on settings
+2020-07-15T16:40:24.324Z - debug: OData query on templates
+2020-07-15T16:40:24.338Z - debug: OData query on folders
+2020-07-15T16:40:24.353Z - debug: OData query on data
+2020-07-15T16:40:24.357Z - debug: OData query on assets
+2020-07-15T16:40:24.359Z - debug: OData query on scripts
+2020-07-15T16:40:24.385Z - debug: OData query on xlsxTemplates
+2020-07-15T16:40:24.404Z - debug: OData query on schedules
+2020-07-15T16:40:24.425Z - debug: OData query on tags
+2020-07-15T16:40:45.235Z - debug: OData query on data
+2020-07-15T16:40:49.425Z - debug: OData query on templates
+2020-07-15T16:40:52.467Z - info: Starting rendering request 1 (user: null)
+2020-07-15T16:40:52.487Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T16:40:52.515Z - debug: Inline data specified.
+2020-07-15T16:40:52.517Z - debug: Resources not defined for this template.
+2020-07-15T16:40:52.570Z - debug: Base url not specified, skipping its injection.
+2020-07-15T16:40:52.607Z - debug: Replaced assets ["invoice-styles.css","invoice-logo.png"]
+2020-07-15T16:40:52.632Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T16:40:52.914Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T16:40:52.914Z - debug: Calculating item Website design; you should see this message in debug run
+2020-07-15T16:40:52.933Z - debug: Executing recipe chrome-pdf
+2020-07-15T16:40:53.947Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T16:40:54.105Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/cc090d87-fa73-46e1-93b6-b0a73eb8cd35-chrome-pdf.html
+2020-07-15T16:40:54.165Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/cc090d87-fa73-46e1-93b6-b0a73eb8cd35-chrome-pdf.html
+2020-07-15T16:40:54.168Z - debug: Page request: GET (image) data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABoCAYAAAB8F707AAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2...
+2020-07-15T16:40:54.171Z - debug: Page request finished: GET (image) 200 data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAABoCAYAAAB8F707AAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2...
+2020-07-15T16:40:54.313Z - debug: Running chrome with params {"printBackground":true,"marginTop":"1cm","marginRight":"1cm","marginBottom":"1cm","marginLeft":"1cm","margin":{"top":"1cm","right":"1cm","bottom":"1cm","left":"1cm"}}
+2020-07-15T16:40:54.976Z - debug: Skipping storing report.
+2020-07-15T16:40:54.988Z - info: Rendering request 1 finished in 2530 ms
+2020-07-15T16:51:47.074Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?
+undefined
+2020-07-15T16:53:17.465Z - info: Starting rendering request 2 (user: null)
+2020-07-15T16:53:17.476Z - warn: Rendering request 2 finished with error in 12 ms
+2020-07-15T16:53:17.486Z - warn: Error when processing render request 2 Unable to find specified template or user doesnt have permissions to read it: invoice Error: Unable to find specified template or user doesnt have permissions to read it: invoice
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-15T16:53:17.488Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-15T16:54:35.137Z - info: Starting rendering request 3 (user: null)
+2020-07-15T16:54:35.142Z - warn: Rendering request 3 finished with error in 5 ms
+2020-07-15T16:54:35.265Z - warn: Error when processing render request 3 Invalid template path, path should be absolute and start with "/" Error: Invalid template path, path should be absolute and start with "/"
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at findQuery (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:70:26)
+    at findTemplate (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:115:31)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:141:26)
+    at C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\lib\listenerCollection.js:171:33
+    at C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\lib\listenerCollection.js:151:16
+    at tryCatcher (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:512:31)
+    at Promise._settlePromise (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:569:18)
+    at Promise._settlePromise0 (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\promise.js:693:18)
+    at Async._drainQueue (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:133:16)
+    at Async._drainQueues (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:143:10)
+    at Immediate.Async.drainQueues (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\listener-collection\node_modules\bluebird\js\release\async.js:17:14)
+    at processImmediate (internal/timers.js:456:21)
+2020-07-15T16:54:35.289Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-15T16:55:04.417Z - info: Starting rendering request 4 (user: null)
+2020-07-15T16:55:04.420Z - warn: Rendering request 4 finished with error in 2 ms
+2020-07-15T16:55:04.423Z - warn: Error when processing render request 4 Unable to find specified template or user doesnt have permissions to read it: /templates/invoice Error: Unable to find specified template or user doesnt have permissions to read it: /templates/invoice
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-15T16:55:04.425Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-15T16:55:26.647Z - info: Starting rendering request 5 (user: null)
+2020-07-15T16:55:26.650Z - warn: Rendering request 5 finished with error in 4 ms
+2020-07-15T16:55:26.653Z - warn: Error when processing render request 5 Unable to find specified template or user doesnt have permissions to read it: /samples/invoice Error: Unable to find specified template or user doesnt have permissions to read it: /samples/invoice
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-15T16:55:26.654Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-15T16:55:57.038Z - debug: OData remove from folders
+2020-07-15T16:56:32.401Z - debug: OData insert into data
+2020-07-15T16:57:24.834Z - debug: OData update on data
+2020-07-15T16:57:24.862Z - debug: OData query on data
+2020-07-15T17:07:22.771Z - debug: OData update on data
+2020-07-15T17:07:22.810Z - debug: OData query on data
+2020-07-15T17:07:23.932Z - debug: OData insert into templates
+2020-07-15T17:07:24.942Z - info: Starting rendering request 6 (user: null)
+2020-07-15T17:07:24.946Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:07:24.972Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:07:24.974Z - debug: Resources not defined for this template.
+2020-07-15T17:07:24.977Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:07:25.041Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:07:25.109Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:07:25.173Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:07:25.877Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:07:26.075Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/3075f075-55b3-4892-bf8c-35a3d02c90e8-chrome-pdf.html
+2020-07-15T17:07:26.117Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/3075f075-55b3-4892-bf8c-35a3d02c90e8-chrome-pdf.html
+2020-07-15T17:07:26.199Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:07:26.549Z - debug: Skipping storing report.
+2020-07-15T17:07:26.551Z - info: Rendering request 6 finished in 1609 ms
+2020-07-15T17:07:46.049Z - debug: OData update on templates
+2020-07-15T17:07:46.084Z - debug: OData query on templates
+2020-07-15T17:07:47.785Z - info: Starting rendering request 7 (user: null)
+2020-07-15T17:07:47.786Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:07:47.804Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:07:47.806Z - debug: Resources not defined for this template.
+2020-07-15T17:07:47.808Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:07:47.852Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:07:48.019Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:07:48.054Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:07:48.634Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:07:48.824Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8921218d-79b3-47ae-9a28-bbd8fc64171d-chrome-pdf.html
+2020-07-15T17:07:48.872Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8921218d-79b3-47ae-9a28-bbd8fc64171d-chrome-pdf.html
+2020-07-15T17:07:48.938Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:07:49.292Z - debug: Skipping storing report.
+2020-07-15T17:07:49.295Z - info: Rendering request 7 finished in 1508 ms
+2020-07-15T17:08:55.484Z - info: Starting rendering request 8 (user: null)
+2020-07-15T17:08:55.487Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:08:55.491Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:08:55.493Z - debug: Resources not defined for this template.
+2020-07-15T17:08:55.538Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:08:55.548Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:08:55.748Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:08:55.783Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:08:56.232Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:08:56.449Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/ac3f692b-dfd7-4dc3-ad22-e297cc5b5c9c-chrome-pdf.html
+2020-07-15T17:08:56.505Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/ac3f692b-dfd7-4dc3-ad22-e297cc5b5c9c-chrome-pdf.html
+2020-07-15T17:08:56.592Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:08:56.998Z - debug: Skipping storing report.
+2020-07-15T17:08:56.999Z - info: Rendering request 8 finished in 1516 ms
+2020-07-15T17:09:05.313Z - debug: OData update on templates
+2020-07-15T17:09:05.366Z - debug: OData query on templates
+2020-07-15T17:09:11.065Z - info: Starting rendering request 9 (user: null)
+2020-07-15T17:09:11.067Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:09:11.074Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:09:11.095Z - debug: Resources not defined for this template.
+2020-07-15T17:09:11.097Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:09:11.130Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:09:11.207Z - warn: Rendering request 9 finished with error in 111 ms
+2020-07-15T17:09:11.408Z - warn: Error when processing render request 9 Error while executing templating engine. Parse error on line 9:
+...span></span></div>
+----------------------^
+Expecting 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', got 'EOF' Error: Parse error on line 9:
+...span></span></div>
+----------------------^
+Expecting 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', got 'EOF'
+    at Parser.parseError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+    at Parser.parse (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+    at parseWithoutProcessing (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
+    at HandlebarsEnvironment.parse (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
+    at compileInput (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
+    at ret (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
+    at C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-handlebars\lib\handlebarsEngine.js:33:20
+    at Object.base.apply (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\vm2\lib/contextify.js:469:32)
+    at evaluate-template-engine.js:1:64
+    at Script.runInContext (vm.js:131:20)
+2020-07-15T17:09:11.430Z - warn: Error during processing request at http://localhost:5488/api/report/invoice
+2020-07-15T17:09:16.461Z - info: Starting rendering request 10 (user: null)
+2020-07-15T17:09:16.463Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:09:16.471Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:09:16.475Z - debug: Resources not defined for this template.
+2020-07-15T17:09:16.477Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:09:16.504Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:09:16.563Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:09:16.565Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:09:17.094Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:09:17.288Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/0232a1f2-f505-4cb3-ae63-ffec622ee6a3-chrome-pdf.html
+2020-07-15T17:09:17.341Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/0232a1f2-f505-4cb3-ae63-ffec622ee6a3-chrome-pdf.html
+2020-07-15T17:09:17.399Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:09:17.882Z - debug: Skipping storing report.
+2020-07-15T17:09:17.885Z - info: Rendering request 10 finished in 1422 ms
+2020-07-15T17:09:28.386Z - info: Starting rendering request 11 (user: null)
+2020-07-15T17:09:28.389Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:09:28.413Z - debug: Adding sample data Skg3NS331D
+2020-07-15T17:09:28.418Z - debug: Resources not defined for this template.
+2020-07-15T17:09:28.448Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:09:28.529Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:09:28.625Z - debug: Taking compiled template from engine cache
+2020-07-15T17:09:28.627Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:09:29.180Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:09:29.394Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/4155fea5-a180-489e-918a-452f7c70b464-chrome-pdf.html
+2020-07-15T17:09:29.444Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/4155fea5-a180-489e-918a-452f7c70b464-chrome-pdf.html
+2020-07-15T17:09:29.527Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:09:29.924Z - debug: Skipping storing report.
+2020-07-15T17:09:29.925Z - info: Rendering request 11 finished in 1539 ms
+2020-07-15T17:12:04.933Z - debug: OData insert into assets
+2020-07-15T17:12:05.041Z - debug: OData query on assets
+2020-07-15T17:12:20.852Z - debug: OData query on data
+2020-07-15T17:12:21.574Z - debug: OData query on templates
+2020-07-15T17:12:29.499Z - debug: OData update on assets
+2020-07-15T17:12:29.553Z - debug: OData query on assets
+2020-07-15T17:12:34.286Z - info: Starting rendering request 12 (user: null)
+2020-07-15T17:12:34.288Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:12:34.305Z - debug: Inline data specified.
+2020-07-15T17:12:34.307Z - debug: Resources not defined for this template.
+2020-07-15T17:12:34.322Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:12:34.324Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:12:34.375Z - debug: Taking compiled template from engine cache
+2020-07-15T17:12:34.382Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:12:34.706Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:12:35.039Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/047093b8-21c1-4582-b97e-2387b1b5dcd3-chrome-pdf.html
+2020-07-15T17:12:35.074Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/047093b8-21c1-4582-b97e-2387b1b5dcd3-chrome-pdf.html
+2020-07-15T17:12:35.138Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:12:35.602Z - debug: Skipping storing report.
+2020-07-15T17:12:35.604Z - info: Rendering request 12 finished in 1317 ms
+2020-07-15T17:12:52.647Z - debug: OData update on templates
+2020-07-15T17:12:52.679Z - debug: OData query on templates
+2020-07-15T17:12:54.532Z - info: Starting rendering request 13 (user: null)
+2020-07-15T17:12:54.534Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:12:54.567Z - debug: Inline data specified.
+2020-07-15T17:12:54.568Z - debug: Resources not defined for this template.
+2020-07-15T17:12:54.569Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:12:54.571Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:12:54.654Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:12:54.655Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:12:55.290Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:12:55.569Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/d258c2f8-027e-44fe-b4c3-2dd257d6b452-chrome-pdf.html
+2020-07-15T17:12:55.612Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/d258c2f8-027e-44fe-b4c3-2dd257d6b452-chrome-pdf.html
+2020-07-15T17:12:55.663Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:12:56.064Z - debug: Skipping storing report.
+2020-07-15T17:12:56.066Z - info: Rendering request 13 finished in 1535 ms
+2020-07-15T17:13:20.149Z - debug: OData update on templates
+2020-07-15T17:13:20.209Z - debug: OData query on templates
+2020-07-15T17:13:25.360Z - info: Starting rendering request 14 (user: null)
+2020-07-15T17:13:25.364Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-15T17:13:25.373Z - debug: Inline data specified.
+2020-07-15T17:13:25.374Z - debug: Resources not defined for this template.
+2020-07-15T17:13:25.386Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:13:25.418Z - debug: Replaced assets ["styles.css"]
+2020-07-15T17:13:25.466Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:13:25.502Z - debug: Compiled template not found in the cache, compiling
+2020-07-15T17:13:25.516Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:13:26.233Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:13:26.469Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/e05a2b4b-9396-4bf7-ad48-f7541bb866ea-chrome-pdf.html
+2020-07-15T17:13:26.519Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/e05a2b4b-9396-4bf7-ad48-f7541bb866ea-chrome-pdf.html
+2020-07-15T17:13:26.594Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:13:27.002Z - debug: Skipping storing report.
+2020-07-15T17:13:27.005Z - info: Rendering request 14 finished in 1644 ms
+2020-07-15T17:15:11.601Z - info: Starting rendering request 15 (user: null)
+2020-07-15T17:15:11.604Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T17:15:11.607Z - debug: Inline data specified.
+2020-07-15T17:15:11.613Z - debug: Resources not defined for this template.
+2020-07-15T17:15:11.619Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:15:11.658Z - debug: Replaced assets ["styles.css"]
+2020-07-15T17:15:11.686Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:15:11.711Z - debug: Taking compiled template from engine cache
+2020-07-15T17:15:11.714Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:15:12.287Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:15:12.670Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/6c6e1b1f-e4be-4d56-802d-5d75b2d06772-chrome-pdf.html
+2020-07-15T17:15:12.716Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/6c6e1b1f-e4be-4d56-802d-5d75b2d06772-chrome-pdf.html
+2020-07-15T17:15:12.800Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:15:13.316Z - debug: Skipping storing report.
+2020-07-15T17:15:13.317Z - info: Rendering request 15 finished in 1738 ms
+2020-07-15T17:43:28.004Z - info: Starting rendering request 16 (user: null)
+2020-07-15T17:43:28.007Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T17:43:28.012Z - debug: Inline data specified.
+2020-07-15T17:43:28.015Z - debug: Resources not defined for this template.
+2020-07-15T17:43:28.045Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:43:28.070Z - debug: Replaced assets ["styles.css"]
+2020-07-15T17:43:28.098Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:43:28.145Z - debug: Taking compiled template from engine cache
+2020-07-15T17:43:28.147Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:43:29.629Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:43:29.824Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/5a75145e-4172-4cbf-81b0-5034622adfe0-chrome-pdf.html
+2020-07-15T17:43:29.854Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/5a75145e-4172-4cbf-81b0-5034622adfe0-chrome-pdf.html
+2020-07-15T17:43:29.899Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:43:30.256Z - debug: Skipping storing report.
+2020-07-15T17:43:30.257Z - info: Rendering request 16 finished in 2257 ms
+2020-07-15T17:46:52.848Z - info: Starting rendering request 17 (user: null)
+2020-07-15T17:46:52.851Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T17:46:52.855Z - debug: Inline data specified.
+2020-07-15T17:46:52.879Z - debug: Resources not defined for this template.
+2020-07-15T17:46:52.885Z - debug: Base url not specified, skipping its injection.
+2020-07-15T17:46:52.891Z - debug: Replaced assets ["styles.css"]
+2020-07-15T17:46:52.893Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T17:46:53.005Z - debug: Taking compiled template from engine cache
+2020-07-15T17:46:53.085Z - debug: Executing recipe chrome-pdf
+2020-07-15T17:46:53.397Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T17:46:53.626Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/fda17a46-e252-459b-80ce-661a083bfebe-chrome-pdf.html
+2020-07-15T17:46:53.655Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/fda17a46-e252-459b-80ce-661a083bfebe-chrome-pdf.html
+2020-07-15T17:46:53.695Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T17:46:54.022Z - debug: Skipping storing report.
+2020-07-15T17:46:54.022Z - info: Rendering request 17 finished in 1175 ms
+2020-07-15T18:34:05.634Z - info: Starting rendering request 18 (user: null)
+2020-07-15T18:34:05.644Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T18:34:05.646Z - debug: Inline data specified.
+2020-07-15T18:34:05.647Z - debug: Resources not defined for this template.
+2020-07-15T18:34:05.654Z - debug: Base url not specified, skipping its injection.
+2020-07-15T18:34:05.669Z - debug: Replaced assets ["styles.css"]
+2020-07-15T18:34:05.670Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T18:34:05.773Z - debug: Taking compiled template from engine cache
+2020-07-15T18:34:05.775Z - debug: Executing recipe chrome-pdf
+2020-07-15T18:34:07.286Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T18:34:07.580Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8a342637-16eb-45f7-80ae-cdf4ea9657eb-chrome-pdf.html
+2020-07-15T18:34:07.595Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8a342637-16eb-45f7-80ae-cdf4ea9657eb-chrome-pdf.html
+2020-07-15T18:34:07.719Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T18:34:08.346Z - debug: Skipping storing report.
+2020-07-15T18:34:08.349Z - info: Rendering request 18 finished in 2733 ms
+2020-07-15T18:34:54.407Z - info: Starting rendering request 19 (user: null)
+2020-07-15T18:34:54.409Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T18:34:54.411Z - debug: Inline data specified.
+2020-07-15T18:34:54.412Z - debug: Resources not defined for this template.
+2020-07-15T18:34:54.413Z - debug: Base url not specified, skipping its injection.
+2020-07-15T18:34:54.415Z - debug: Replaced assets ["styles.css"]
+2020-07-15T18:34:54.416Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T18:34:54.432Z - debug: Taking compiled template from engine cache
+2020-07-15T18:34:54.433Z - debug: Executing recipe chrome-pdf
+2020-07-15T18:34:54.982Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T18:34:55.140Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/7d1f2bd1-9844-478c-8245-2afe2f39b810-chrome-pdf.html
+2020-07-15T18:34:55.156Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/7d1f2bd1-9844-478c-8245-2afe2f39b810-chrome-pdf.html
+2020-07-15T18:34:55.194Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T18:34:55.484Z - debug: Skipping storing report.
+2020-07-15T18:34:55.486Z - info: Rendering request 19 finished in 1081 ms
+2020-07-15T18:35:19.953Z - info: Starting rendering request 20 (user: null)
+2020-07-15T18:35:19.954Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T18:35:19.955Z - debug: Inline data specified.
+2020-07-15T18:35:19.956Z - debug: Resources not defined for this template.
+2020-07-15T18:35:19.957Z - debug: Base url not specified, skipping its injection.
+2020-07-15T18:35:19.961Z - debug: Replaced assets ["styles.css"]
+2020-07-15T18:35:19.962Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T18:35:19.976Z - debug: Taking compiled template from engine cache
+2020-07-15T18:35:19.978Z - debug: Executing recipe chrome-pdf
+2020-07-15T18:35:20.596Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T18:35:20.823Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8e78cd8f-be9c-4676-bcc7-7d6045d62216-chrome-pdf.html
+2020-07-15T18:35:20.862Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/8e78cd8f-be9c-4676-bcc7-7d6045d62216-chrome-pdf.html
+2020-07-15T18:35:20.889Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T18:35:21.437Z - debug: Skipping storing report.
+2020-07-15T18:35:21.440Z - info: Rendering request 20 finished in 1500 ms
+2020-07-15T18:35:25.256Z - info: Starting rendering request 21 (user: null)
+2020-07-15T18:35:25.259Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T18:35:25.262Z - debug: Inline data specified.
+2020-07-15T18:35:25.263Z - debug: Resources not defined for this template.
+2020-07-15T18:35:25.266Z - debug: Base url not specified, skipping its injection.
+2020-07-15T18:35:25.269Z - debug: Replaced assets ["styles.css"]
+2020-07-15T18:35:25.271Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T18:35:25.290Z - debug: Taking compiled template from engine cache
+2020-07-15T18:35:25.293Z - debug: Executing recipe chrome-pdf
+2020-07-15T18:35:25.821Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T18:35:26.003Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/90982d79-af16-48d0-9a52-9d6c99966758-chrome-pdf.html
+2020-07-15T18:35:26.022Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/90982d79-af16-48d0-9a52-9d6c99966758-chrome-pdf.html
+2020-07-15T18:35:26.056Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T18:35:26.474Z - debug: Skipping storing report.
+2020-07-15T18:35:26.475Z - info: Rendering request 21 finished in 1220 ms
+2020-07-15T18:35:45.628Z - info: Starting rendering request 22 (user: null)
+2020-07-15T18:35:45.638Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T18:35:45.640Z - debug: Inline data specified.
+2020-07-15T18:35:45.642Z - debug: Resources not defined for this template.
+2020-07-15T18:35:45.643Z - debug: Base url not specified, skipping its injection.
+2020-07-15T18:35:45.652Z - debug: Replaced assets ["styles.css"]
+2020-07-15T18:35:45.653Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T18:35:45.670Z - debug: Taking compiled template from engine cache
+2020-07-15T18:35:45.671Z - debug: Executing recipe chrome-pdf
+2020-07-15T18:35:46.404Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T18:35:46.587Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/f15163a4-82ab-47f5-aba9-89fb96c1a8ca-chrome-pdf.html
+2020-07-15T18:35:46.692Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/f15163a4-82ab-47f5-aba9-89fb96c1a8ca-chrome-pdf.html
+2020-07-15T18:35:46.701Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T18:35:47.539Z - debug: Skipping storing report.
+2020-07-15T18:35:47.540Z - info: Rendering request 22 finished in 1914 ms
+2020-07-15T19:18:28.988Z - info: Starting rendering request 23 (user: null)
+2020-07-15T19:18:28.990Z - info: Rendering template { name: invoice, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-15T19:18:28.992Z - debug: Inline data specified.
+2020-07-15T19:18:28.993Z - debug: Resources not defined for this template.
+2020-07-15T19:18:28.995Z - debug: Base url not specified, skipping its injection.
+2020-07-15T19:18:28.997Z - debug: Replaced assets ["styles.css"]
+2020-07-15T19:18:28.998Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-15T19:18:29.017Z - debug: Taking compiled template from engine cache
+2020-07-15T19:18:29.018Z - debug: Executing recipe chrome-pdf
+2020-07-15T19:18:29.644Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-15T19:18:32.097Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/0725e709-637b-4e25-96a4-f9b51593ec69-chrome-pdf.html
+2020-07-15T19:18:32.099Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/0725e709-637b-4e25-96a4-f9b51593ec69-chrome-pdf.html
+2020-07-15T19:18:32.103Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-15T19:18:32.602Z - debug: Skipping storing report.
+2020-07-15T19:18:32.603Z - info: Rendering request 23 finished in 3727 ms
+2020-07-17T12:06:28.358Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-07-17T12:06:28.360Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T12:06:28.450Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T12:06:28.491Z - info: Found 35 extensions
+2020-07-17T12:06:28.936Z - debug: Writing extension locations cache to C:\Users\lenovo\AppData\Local\Temp\jsreport\core\locations.json
+2020-07-17T12:06:28.938Z - debug: Discovered 35 extensions
+2020-07-17T12:06:29.138Z - info: Setting http-server strategy for rendering
+2020-07-17T12:06:29.481Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-07-17T12:06:29.481Z - info: Using extension cli@2.2.3
+2020-07-17T12:06:29.497Z - info: Using extension debug@2.1.3
+2020-07-17T12:06:29.502Z - info: Using extension express@2.6.0
+2020-07-17T12:06:29.840Z - info: Using extension freeze@2.0.0
+2020-07-17T12:06:29.847Z - info: Using extension handlebars@2.1.0
+2020-07-17T12:06:29.857Z - info: Using extension import-export@1.6.0
+2020-07-17T12:06:29.960Z - info: Using extension jsrender@2.1.1
+2020-07-17T12:06:29.963Z - info: Using extension tags@2.3.0
+2020-07-17T12:06:29.989Z - info: Using extension templates@2.3.3
+2020-07-17T12:06:29.997Z - info: Using extension authorization@2.3.0
+2020-07-17T12:06:30.006Z - debug: Extension authorization@2.3.0 was disabled
+2020-07-17T12:06:30.007Z - info: Using extension base@2.0.2
+2020-07-17T12:06:30.036Z - info: Using extension browser-client@2.2.2
+2020-07-17T12:06:30.049Z - info: Using extension child-templates@1.3.2
+2020-07-17T12:06:30.072Z - info: Using extension chrome-pdf@1.8.0
+2020-07-17T12:06:30.317Z - debug: Chrome strategy is dedicated-process
+2020-07-17T12:06:30.319Z - info: Using extension data@2.2.0
+2020-07-17T12:06:30.347Z - info: Using extension docx@2.6.0
+2020-07-17T12:06:30.355Z - info: Using extension fs-store@2.8.0
+2020-07-17T12:06:30.690Z - debug: Extension fs-store@2.8.0 was disabled
+2020-07-17T12:06:30.691Z - info: Using extension licensing@2.2.2
+2020-07-17T12:06:30.716Z - info: Using extension pdf-utils@1.7.0
+2020-07-17T12:06:30.925Z - info: Using extension pptx@0.6.0
+2020-07-17T12:06:30.951Z - info: Using extension reports@2.3.0
+2020-07-17T12:06:30.964Z - info: Using extension static-pdf@0.3.1
+2020-07-17T12:06:30.988Z - info: Using extension studio@2.8.0
+2020-07-17T12:06:31.227Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-07-17T12:06:31.256Z - info: Using extension text@2.0.0
+2020-07-17T12:06:31.274Z - info: Using extension version-control@1.4.0
+2020-07-17T12:06:31.528Z - info: Using extension assets@1.5.3
+2020-07-17T12:06:31.563Z - info: Using extension html-to-xlsx@2.6.0
+2020-07-17T12:06:32.259Z - info: html-to-xlsx detected chrome as available html engine
+2020-07-17T12:06:32.260Z - info: Using extension scheduling@2.3.0
+2020-07-17T12:06:32.337Z - info: Using extension scripts@2.4.0
+2020-07-17T12:06:32.359Z - info: Using extension studio-theme-dark@0.3.0
+2020-07-17T12:06:32.419Z - info: Using extension xlsx@2.3.1
+2020-07-17T12:06:32.823Z - info: Using extension public-templates@2.1.0
+2020-07-17T12:06:32.837Z - debug: Extension public-templates@2.1.0 was disabled
+2020-07-17T12:06:32.840Z - info: Using extension resources@2.0.4
+2020-07-17T12:06:32.856Z - info: Using extension sample-template@2.5.1
+2020-07-17T12:06:32.897Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-07-17T12:06:32.898Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2020-07-17T12:06:32.938Z - debug: studio default theme is: light
+2020-07-17T12:06:33.016Z - info: Creating default express app.
+2020-07-17T12:06:33.089Z - info: jsreport server successfully started on http port: 5488
+2020-07-17T12:06:33.110Z - info: Verifying license key free
+2020-07-17T12:06:33.129Z - info: Using free license
+2020-07-17T12:06:33.149Z - debug: Creating samples is disabled
+2020-07-17T12:06:33.152Z - info: reporter initialized
+2020-07-17T12:06:57.849Z - debug: OData query on templates
+2020-07-17T12:06:57.866Z - debug: OData query on folders
+2020-07-17T12:06:57.926Z - debug: OData query on tags
+2020-07-17T12:06:57.931Z - debug: OData query on data
+2020-07-17T12:06:57.960Z - debug: OData query on assets
+2020-07-17T12:06:57.983Z - debug: OData query on scripts
+2020-07-17T12:06:58.015Z - debug: OData query on xlsxTemplates
+2020-07-17T12:06:58.024Z - debug: OData query on schedules
+2020-07-17T12:06:58.082Z - debug: OData query on settings
+2020-07-17T12:06:58.311Z - debug: OData query on templates
+2020-07-17T12:06:58.394Z - debug: OData query on settings
+2020-07-17T12:07:37.566Z - debug: OData insert into data
+2020-07-17T12:07:57.958Z - debug: OData update on data
+2020-07-17T12:07:58.005Z - debug: OData query on data
+2020-07-17T12:08:35.678Z - info: Starting rendering request 1 (user: null)
+2020-07-17T12:08:35.691Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T12:08:35.730Z - debug: Adding sample data B1lpu4fygv
+2020-07-17T12:08:35.762Z - debug: Resources not defined for this template.
+2020-07-17T12:08:35.784Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:08:35.839Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:08:36.154Z - debug: Compiled template not found in the cache, compiling
+2020-07-17T12:08:36.191Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:08:37.663Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:08:37.883Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/5ce5085b-76a6-4fe1-8c61-cdaafde2a5a2-chrome-pdf.html
+2020-07-17T12:08:37.950Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/5ce5085b-76a6-4fe1-8c61-cdaafde2a5a2-chrome-pdf.html
+2020-07-17T12:08:38.022Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:08:38.415Z - debug: Skipping storing report.
+2020-07-17T12:08:38.417Z - info: Rendering request 1 finished in 2757 ms
+2020-07-17T12:08:43.368Z - debug: OData insert into templates
+2020-07-17T12:08:44.603Z - info: Starting rendering request 2 (user: null)
+2020-07-17T12:08:44.631Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T12:08:44.634Z - debug: Adding sample data B1lpu4fygv
+2020-07-17T12:08:44.636Z - debug: Resources not defined for this template.
+2020-07-17T12:08:44.638Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:08:44.673Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:08:44.711Z - debug: Taking compiled template from engine cache
+2020-07-17T12:08:44.713Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:08:45.188Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:08:45.498Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/4ab50141-9fc1-443a-8afa-dd23ae9f5048-chrome-pdf.html
+2020-07-17T12:08:45.529Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/4ab50141-9fc1-443a-8afa-dd23ae9f5048-chrome-pdf.html
+2020-07-17T12:08:45.574Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:08:45.987Z - debug: Skipping storing report.
+2020-07-17T12:08:45.989Z - info: Rendering request 2 finished in 1387 ms
+2020-07-17T12:08:48.511Z - debug: OData query on data
+2020-07-17T12:08:52.170Z - debug: OData update on data
+2020-07-17T12:08:52.257Z - debug: OData query on data
+2020-07-17T12:08:55.511Z - info: Starting rendering request 3 (user: null)
+2020-07-17T12:08:55.514Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T12:08:55.536Z - debug: Inline data specified.
+2020-07-17T12:08:55.538Z - debug: Resources not defined for this template.
+2020-07-17T12:08:55.541Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:08:55.544Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:08:55.590Z - debug: Taking compiled template from engine cache
+2020-07-17T12:08:55.594Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:08:56.211Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:08:56.409Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/60ebe326-bd07-4bad-8f16-a5d7cb306298-chrome-pdf.html
+2020-07-17T12:08:56.447Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/60ebe326-bd07-4bad-8f16-a5d7cb306298-chrome-pdf.html
+2020-07-17T12:08:56.487Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:08:56.836Z - debug: Skipping storing report.
+2020-07-17T12:08:56.839Z - info: Rendering request 3 finished in 1326 ms
+2020-07-17T12:09:13.551Z - debug: OData insert into assets
+2020-07-17T12:09:13.695Z - debug: OData query on assets
+2020-07-17T12:09:16.256Z - debug: OData query on templates
+2020-07-17T12:09:56.542Z - debug: OData update on templates
+2020-07-17T12:09:56.598Z - debug: OData query on templates
+2020-07-17T12:10:02.672Z - debug: OData update on assets
+2020-07-17T12:10:02.709Z - debug: OData query on assets
+2020-07-17T12:10:04.599Z - info: Starting rendering request 4 (user: null)
+2020-07-17T12:10:04.601Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T12:10:04.635Z - debug: Inline data specified.
+2020-07-17T12:10:04.661Z - debug: Resources not defined for this template.
+2020-07-17T12:10:04.662Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:10:04.669Z - debug: Replaced assets ["styles.css"]
+2020-07-17T12:10:04.675Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:10:04.730Z - debug: Compiled template not found in the cache, compiling
+2020-07-17T12:10:04.732Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:10:05.283Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:10:05.519Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/f23577c4-ca55-49e1-9348-ce578d33fbe7-chrome-pdf.html
+2020-07-17T12:10:05.558Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/f23577c4-ca55-49e1-9348-ce578d33fbe7-chrome-pdf.html
+2020-07-17T12:10:05.661Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:10:06.049Z - debug: Skipping storing report.
+2020-07-17T12:10:06.050Z - info: Rendering request 4 finished in 1450 ms
+2020-07-17T12:12:03.324Z - debug: Version control commit: local changes
+2020-07-17T12:12:03.537Z - debug: Version control diff for local changes
+2020-07-17T12:12:16.833Z - debug: Version control commit: first template
+2020-07-17T12:12:16.979Z - debug: Version control commit: local changes
+2020-07-17T12:12:16.994Z - debug: Version control diff for local changes
+2020-07-17T12:16:32.617Z - info: Starting rendering request 5 (user: null)
+2020-07-17T12:16:32.619Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T12:16:32.620Z - debug: Inline data specified.
+2020-07-17T12:16:32.659Z - debug: Resources not defined for this template.
+2020-07-17T12:16:32.719Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:16:32.870Z - debug: Replaced assets ["styles.css"]
+2020-07-17T12:16:32.929Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:16:32.990Z - debug: Taking compiled template from engine cache
+2020-07-17T12:16:32.999Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:16:34.932Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:16:35.557Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/abd81c6c-3eb7-49ba-aee1-686f9d5709c5-chrome-pdf.html
+2020-07-17T12:16:35.658Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/abd81c6c-3eb7-49ba-aee1-686f9d5709c5-chrome-pdf.html
+2020-07-17T12:16:35.744Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:16:36.272Z - debug: Skipping storing report.
+2020-07-17T12:16:36.317Z - info: Rendering request 5 finished in 3666 ms
+2020-07-17T12:17:05.596Z - info: Starting rendering request 6 (user: null)
+2020-07-17T12:17:05.634Z - info: Rendering template { name: first-template, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T12:17:05.636Z - debug: Inline data specified.
+2020-07-17T12:17:05.699Z - debug: Resources not defined for this template.
+2020-07-17T12:17:05.824Z - debug: Base url not specified, skipping its injection.
+2020-07-17T12:17:05.931Z - debug: Replaced assets ["styles.css"]
+2020-07-17T12:17:05.944Z - debug: Rendering engine handlebars using http-server strategy
+2020-07-17T12:17:06.201Z - debug: Taking compiled template from engine cache
+2020-07-17T12:17:06.284Z - debug: Executing recipe chrome-pdf
+2020-07-17T12:17:07.389Z - debug: Converting with chrome HeadlessChrome/79.0.3945.0 using dedicated-process strategy
+2020-07-17T12:17:07.973Z - debug: Page request: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/d118b394-41b2-41e5-94b5-9abd291085f1-chrome-pdf.html
+2020-07-17T12:17:08.016Z - debug: Page request finished: GET (document) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/d118b394-41b2-41e5-94b5-9abd291085f1-chrome-pdf.html
+2020-07-17T12:17:08.125Z - debug: Running chrome with params {"printBackground":true,"margin":{}}
+2020-07-17T12:17:08.974Z - debug: Skipping storing report.
+2020-07-17T12:17:08.985Z - info: Rendering request 6 finished in 3379 ms
+2020-07-17T16:55:49.727Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-07-17T16:55:49.742Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T16:55:49.937Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T16:55:50.098Z - info: Found 35 extensions
+2020-07-17T16:55:50.892Z - debug: Writing extension locations cache to C:\Users\lenovo\AppData\Local\Temp\jsreport\core\locations.json
+2020-07-17T16:55:51.003Z - debug: Discovered 35 extensions
+2020-07-17T16:55:51.299Z - info: Setting http-server strategy for rendering
+2020-07-17T16:55:52.039Z - debug: Extension authentication@2.5.0 is disabled, skipping
+2020-07-17T16:55:52.074Z - info: Using extension cli@2.2.3
+2020-07-17T16:55:52.152Z - info: Using extension debug@2.1.3
+2020-07-17T16:55:52.161Z - info: Using extension express@2.6.0
+2020-07-17T16:55:52.808Z - info: Using extension freeze@2.0.0
+2020-07-17T16:55:52.827Z - info: Using extension handlebars@2.1.0
+2020-07-17T16:55:52.842Z - info: Using extension import-export@1.6.0
+2020-07-17T16:55:52.995Z - info: Using extension jsrender@2.1.1
+2020-07-17T16:55:53.039Z - info: Using extension tags@2.3.0
+2020-07-17T16:55:53.048Z - info: Using extension templates@2.3.3
+2020-07-17T16:55:53.054Z - info: Using extension authorization@2.3.0
+2020-07-17T16:55:53.092Z - debug: Extension authorization@2.3.0 was disabled
+2020-07-17T16:55:53.093Z - info: Using extension base@2.0.2
+2020-07-17T16:55:53.110Z - info: Using extension browser-client@2.2.2
+2020-07-17T16:55:53.147Z - info: Using extension child-templates@1.3.2
+2020-07-17T16:55:53.175Z - info: Using extension chrome-pdf@1.8.0
+2020-07-17T16:55:53.427Z - debug: Chrome strategy is dedicated-process
+2020-07-17T16:55:53.448Z - info: Using extension data@2.2.0
+2020-07-17T16:55:53.457Z - info: Using extension docx@2.6.0
+2020-07-17T16:55:53.557Z - info: Using extension fs-store@2.8.0
+2020-07-17T16:55:54.051Z - debug: Extension fs-store@2.8.0 was disabled
+2020-07-17T16:55:54.063Z - info: Using extension licensing@2.2.2
+2020-07-17T16:55:54.103Z - info: Using extension pdf-utils@1.7.0
+2020-07-17T16:55:54.329Z - info: Using extension pptx@0.6.0
+2020-07-17T16:55:54.345Z - info: Using extension reports@2.3.0
+2020-07-17T16:55:54.359Z - info: Using extension static-pdf@0.3.1
+2020-07-17T16:55:54.378Z - info: Using extension studio@2.8.0
+2020-07-17T16:55:54.646Z - debug: studio request logs are enabled (flush interval: 2000)
+2020-07-17T16:55:54.726Z - info: Using extension text@2.0.0
+2020-07-17T16:55:54.755Z - info: Using extension version-control@1.4.0
+2020-07-17T16:55:55.056Z - info: Using extension assets@1.5.3
+2020-07-17T16:55:55.118Z - info: Using extension html-to-xlsx@2.6.0
+2020-07-17T16:55:56.197Z - info: html-to-xlsx detected chrome as available html engine
+2020-07-17T16:55:56.253Z - info: Using extension scheduling@2.3.0
+2020-07-17T16:55:56.367Z - info: Using extension scripts@2.4.0
+2020-07-17T16:55:56.375Z - info: Using extension studio-theme-dark@0.3.0
+2020-07-17T16:55:56.394Z - info: Using extension xlsx@2.3.1
+2020-07-17T16:55:57.003Z - info: Using extension public-templates@2.1.0
+2020-07-17T16:55:57.051Z - debug: Extension public-templates@2.1.0 was disabled
+2020-07-17T16:55:57.118Z - info: Using extension resources@2.0.4
+2020-07-17T16:55:57.125Z - info: Using extension sample-template@2.5.1
+2020-07-17T16:55:57.156Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-07-17T16:55:57.191Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2020-07-17T16:55:57.255Z - debug: studio default theme is: light
+2020-07-17T16:55:57.369Z - info: Creating default express app.
+2020-07-17T16:55:57.437Z - info: jsreport server successfully started on http port: 5488
+2020-07-17T16:55:57.444Z - info: Verifying license key free
+2020-07-17T16:55:57.488Z - info: Using free license
+2020-07-17T16:55:57.510Z - debug: Creating samples is disabled
+2020-07-17T16:55:57.526Z - info: reporter initialized
+2020-07-17T16:56:55.328Z - debug: OData query on templates
+2020-07-17T16:56:55.345Z - debug: OData query on folders
+2020-07-17T16:56:55.379Z - debug: OData query on tags
+2020-07-17T16:56:55.381Z - debug: OData query on data
+2020-07-17T16:56:55.383Z - debug: OData query on assets
+2020-07-17T16:56:55.387Z - debug: OData query on scripts
+2020-07-17T16:56:55.412Z - debug: OData query on xlsxTemplates
+2020-07-17T16:56:55.418Z - debug: OData query on schedules
+2020-07-17T16:56:55.448Z - debug: OData query on settings
+2020-07-17T16:56:55.621Z - debug: OData query on templates
+2020-07-17T16:56:55.674Z - debug: OData query on settings
+2020-07-17T16:57:06.172Z - debug: Version control commit: local changes
+2020-07-17T16:57:06.353Z - debug: Version control diff for local changes
+2020-07-17T16:58:08.375Z - debug: OData insert into folders
+2020-07-17T16:58:14.376Z - debug: OData insert into templates
+2020-07-17T16:58:15.696Z - debug: OData insert into data
+2020-07-17T16:58:29.443Z - debug: Version control commit: local changes
+2020-07-17T16:58:29.476Z - debug: Version control diff for local changes
+2020-07-17T16:58:45.412Z - debug: OData query on reports
+2020-07-17T16:58:50.526Z - debug: Version control commit: local changes
+2020-07-17T16:58:50.556Z - debug: Version control diff for local changes
+2020-07-17T16:58:51.761Z - debug: OData query on templates
+2020-07-17T16:58:51.789Z - debug: OData query on settings
+2020-07-17T16:58:56.018Z - debug: OData query on templates
+2020-07-17T16:58:57.835Z - debug: OData query on templates
+2020-07-17T16:58:57.871Z - debug: OData query on settings
+2020-07-17T16:58:59.573Z - debug: OData query on templates
+2020-07-17T16:59:01.759Z - debug: OData query on data
+2020-07-17T16:59:57.583Z - debug: OData update on templates
+2020-07-17T16:59:57.606Z - debug: OData query on templates
+2020-07-17T16:59:58.813Z - debug: OData update on templates
+2020-07-17T16:59:58.833Z - debug: OData query on templates
+2020-07-17T17:14:50.221Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-07-17T17:14:50.232Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T17:14:50.262Z - info: Extensions location cache contains up to date information, skipping crawling in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-07-17T17:14:50.267Z - info: Found 35 extensions
+2020-07-17T17:14:50.696Z - info: Setting http-server strategy for rendering
+2020-07-17T17:14:50.992Z - info: Using extension cli@2.2.3
+2020-07-17T17:14:51.011Z - info: Using extension debug@2.1.3
+2020-07-17T17:14:51.015Z - info: Using extension express@2.6.0
+2020-07-17T17:14:51.313Z - info: Using extension freeze@2.0.0
+2020-07-17T17:14:51.316Z - info: Using extension handlebars@2.1.0
+2020-07-17T17:14:51.332Z - info: Using extension import-export@1.6.0
+2020-07-17T17:14:51.422Z - info: Using extension jsrender@2.1.1
+2020-07-17T17:14:51.424Z - info: Using extension tags@2.3.0
+2020-07-17T17:14:51.427Z - info: Using extension templates@2.3.3
+2020-07-17T17:14:51.431Z - info: Using extension authorization@2.3.0
+2020-07-17T17:14:51.445Z - info: Using extension base@2.0.2
+2020-07-17T17:14:51.708Z - info: Using extension browser-client@2.2.2
+2020-07-17T17:14:51.828Z - info: Using extension child-templates@1.3.2
+2020-07-17T17:14:51.855Z - info: Using extension chrome-pdf@1.8.0
+2020-07-17T17:14:52.428Z - info: Using extension data@2.2.0
+2020-07-17T17:14:52.430Z - info: Using extension docx@2.6.0
+2020-07-17T17:14:52.449Z - info: Using extension fs-store@2.8.0
+2020-07-17T17:14:52.729Z - info: Using extension licensing@2.2.2
+2020-07-17T17:14:52.744Z - info: Using extension pdf-utils@1.7.0
+2020-07-17T17:14:52.911Z - info: Using extension pptx@0.6.0
+2020-07-17T17:14:52.927Z - info: Using extension reports@2.3.0
+2020-07-17T17:14:52.932Z - info: Using extension static-pdf@0.3.1
+2020-07-17T17:14:52.944Z - info: Using extension studio@2.8.0
+2020-07-17T17:14:53.104Z - info: Using extension text@2.0.0
+2020-07-17T17:14:53.106Z - info: Using extension version-control@1.4.0
+2020-07-17T17:14:53.226Z - info: Using extension assets@1.5.3
+2020-07-17T17:14:53.246Z - info: Using extension html-to-xlsx@2.6.0
+2020-07-17T17:14:53.710Z - info: html-to-xlsx detected chrome as available html engine
+2020-07-17T17:14:53.711Z - info: Using extension scheduling@2.3.0
+2020-07-17T17:14:53.771Z - info: Using extension scripts@2.4.0
+2020-07-17T17:14:53.776Z - info: Using extension studio-theme-dark@0.3.0
+2020-07-17T17:14:53.778Z - info: Using extension xlsx@2.3.1
+2020-07-17T17:14:54.052Z - info: Using extension public-templates@2.1.0
+2020-07-17T17:14:54.063Z - info: Using extension resources@2.0.4
+2020-07-17T17:14:54.067Z - info: Using extension sample-template@2.5.1
+2020-07-17T17:14:54.078Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-07-17T17:14:54.081Z - info: Using fs provider for template store.
+2020-07-17T17:14:54.094Z - info: fs store is persisting using fs
+2020-07-17T17:14:54.097Z - info: fs store is synchronizing using fs
+2020-07-17T17:14:54.144Z - info: fs store is loading data
+2020-07-17T17:14:54.197Z - info: fs store is initialized successfully
+2020-07-17T17:14:54.242Z - info: Creating default express app.
+2020-07-17T17:14:54.289Z - info: jsreport server successfully started on http port: 5488
+2020-07-17T17:14:54.290Z - info: fs store emits sockets to synchronize underlying changes with studio
+2020-07-17T17:14:54.332Z - info: Verifying license key free
+2020-07-17T17:14:54.344Z - info: Using free license
+2020-07-17T17:14:54.381Z - info: reporter initialized
+2020-07-17T17:17:37.646Z - info: Starting rendering request 1 (user: null)
+2020-07-17T17:17:37.668Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:17:39.757Z - info: Rendering request 1 finished in 2095 ms
+2020-07-17T17:21:33.353Z - info: fs store is loading data
+2020-07-17T17:21:34.846Z - info: Starting rendering request 2 (user: null)
+2020-07-17T17:21:34.855Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:21:36.597Z - info: Rendering request 2 finished in 1753 ms
+2020-07-17T17:22:38.881Z - info: Starting rendering request 3 (user: null)
+2020-07-17T17:22:38.895Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:22:39.987Z - info: Rendering request 3 finished in 1108 ms
+2020-07-17T17:23:16.865Z - info: Starting rendering request 4 (user: null)
+2020-07-17T17:23:16.868Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:23:17.997Z - info: Rendering request 4 finished in 1135 ms
+2020-07-17T17:23:27.347Z - info: Starting rendering request 5 (user: null)
+2020-07-17T17:23:27.348Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:23:28.504Z - info: Rendering request 5 finished in 1158 ms
+2020-07-17T17:24:12.494Z - info: Starting rendering request 6 (user: null)
+2020-07-17T17:24:12.497Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:24:13.860Z - info: Rendering request 6 finished in 1366 ms
+2020-07-17T17:31:05.358Z - info: Starting rendering request 7 (user: null)
+2020-07-17T17:31:05.361Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:31:09.983Z - info: Rendering request 7 finished in 4626 ms
+2020-07-17T17:32:41.835Z - info: Starting rendering request 8 (user: null)
+2020-07-17T17:32:41.837Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:32:43.052Z - info: Rendering request 8 finished in 1217 ms
+2020-07-17T17:32:52.021Z - info: Starting rendering request 9 (user: null)
+2020-07-17T17:32:52.024Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:32:53.274Z - warn: Page request failed: GET (image) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/logo.png, failure: net::ERR_FILE_NOT_FOUND
+2020-07-17T17:32:53.641Z - info: Rendering request 9 finished in 1621 ms
+2020-07-17T17:32:59.117Z - info: Starting rendering request 10 (user: null)
+2020-07-17T17:32:59.119Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:33:00.157Z - warn: Page request failed: GET (image) file:///C:/Users/lenovo/AppData/Local/Temp/jsreport/autocleanup/logo.png, failure: net::ERR_FILE_NOT_FOUND
+2020-07-17T17:33:00.456Z - info: Rendering request 10 finished in 1339 ms
+2020-07-17T17:33:53.903Z - info: Starting rendering request 11 (user: null)
+2020-07-17T17:33:53.919Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:33:55.525Z - info: Rendering request 11 finished in 1621 ms
+2020-07-17T17:34:50.879Z - info: Starting rendering request 12 (user: null)
+2020-07-17T17:34:50.883Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:34:52.151Z - info: Rendering request 12 finished in 1273 ms
+2020-07-17T17:34:56.484Z - info: Starting rendering request 13 (user: null)
+2020-07-17T17:34:56.486Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:34:57.694Z - info: Rendering request 13 finished in 1211 ms
+2020-07-17T17:35:00.189Z - info: Starting rendering request 14 (user: null)
+2020-07-17T17:35:00.191Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:35:01.814Z - info: Rendering request 14 finished in 1623 ms
+2020-07-17T17:36:03.012Z - info: Starting rendering request 15 (user: null)
+2020-07-17T17:36:03.014Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:36:04.255Z - info: Rendering request 15 finished in 1243 ms
+2020-07-17T17:36:24.129Z - info: Starting rendering request 16 (user: null)
+2020-07-17T17:36:24.132Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:36:25.408Z - info: Rendering request 16 finished in 1279 ms
+2020-07-17T17:37:18.062Z - info: Starting rendering request 17 (user: null)
+2020-07-17T17:37:18.064Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:37:19.316Z - info: Rendering request 17 finished in 1253 ms
+2020-07-17T17:37:30.270Z - info: Starting rendering request 18 (user: null)
+2020-07-17T17:37:30.271Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:37:31.598Z - info: Rendering request 18 finished in 1329 ms
+2020-07-17T17:37:37.915Z - info: Starting rendering request 19 (user: null)
+2020-07-17T17:37:37.920Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:37:41.009Z - info: Rendering request 19 finished in 3097 ms
+2020-07-17T17:37:50.857Z - info: Starting rendering request 20 (user: null)
+2020-07-17T17:37:50.859Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:37:55.867Z - info: Rendering request 20 finished in 5009 ms
+2020-07-17T17:38:16.219Z - info: Starting rendering request 21 (user: null)
+2020-07-17T17:38:16.220Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:38:21.301Z - info: Rendering request 21 finished in 5082 ms
+2020-07-17T17:38:38.065Z - info: Starting rendering request 22 (user: null)
+2020-07-17T17:38:38.067Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:38:43.315Z - info: Rendering request 22 finished in 5249 ms
+2020-07-17T17:40:03.887Z - info: Starting rendering request 23 (user: null)
+2020-07-17T17:40:03.890Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:40:09.248Z - info: Rendering request 23 finished in 5363 ms
+2020-07-17T17:46:30.483Z - info: Starting rendering request 24 (user: null)
+2020-07-17T17:46:30.485Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:46:35.394Z - info: Rendering request 24 finished in 4912 ms
+2020-07-17T17:51:35.820Z - info: Starting rendering request 25 (user: null)
+2020-07-17T17:51:35.822Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:51:40.060Z - info: Rendering request 25 finished in 4241 ms
+2020-07-17T17:52:08.285Z - info: Starting rendering request 26 (user: null)
+2020-07-17T17:52:08.286Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:52:12.534Z - info: Rendering request 26 finished in 4252 ms
+2020-07-17T17:52:22.651Z - info: Starting rendering request 27 (user: null)
+2020-07-17T17:52:22.653Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:52:26.788Z - info: Rendering request 27 finished in 4138 ms
+2020-07-17T17:52:41.265Z - info: Starting rendering request 28 (user: null)
+2020-07-17T17:52:41.267Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:52:46.020Z - info: Rendering request 28 finished in 4754 ms
+2020-07-17T17:53:00.869Z - info: Starting rendering request 29 (user: null)
+2020-07-17T17:53:00.871Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:53:05.051Z - info: Rendering request 29 finished in 4181 ms
+2020-07-17T17:53:38.593Z - info: Starting rendering request 30 (user: null)
+2020-07-17T17:53:38.595Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T17:53:42.742Z - info: Rendering request 30 finished in 4151 ms
+2020-07-17T18:02:41.942Z - info: Starting rendering request 31 (user: null)
+2020-07-17T18:02:41.945Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:02:45.742Z - info: Rendering request 31 finished in 3800 ms
+2020-07-17T18:03:27.317Z - info: Starting rendering request 32 (user: null)
+2020-07-17T18:03:27.317Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:03:31.317Z - info: Rendering request 32 finished in 4002 ms
+2020-07-17T18:03:47.877Z - info: Starting rendering request 33 (user: null)
+2020-07-17T18:03:47.878Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:03:51.821Z - info: Rendering request 33 finished in 3945 ms
+2020-07-17T18:04:31.527Z - info: Starting rendering request 34 (user: null)
+2020-07-17T18:04:31.529Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:04:35.498Z - info: Rendering request 34 finished in 3972 ms
+2020-07-17T18:05:10.528Z - info: Starting rendering request 35 (user: null)
+2020-07-17T18:05:10.531Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:05:14.200Z - info: Rendering request 35 finished in 3674 ms
+2020-07-17T18:05:51.479Z - info: Starting rendering request 36 (user: null)
+2020-07-17T18:05:51.481Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:05:56.275Z - info: Rendering request 36 finished in 4797 ms
+2020-07-17T18:08:02.469Z - info: Starting rendering request 37 (user: null)
+2020-07-17T18:08:02.470Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:08:06.377Z - info: Rendering request 37 finished in 3908 ms
+2020-07-17T18:10:46.783Z - info: Starting rendering request 38 (user: null)
+2020-07-17T18:10:46.785Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:10:51.264Z - info: Rendering request 38 finished in 4485 ms
+2020-07-17T18:12:49.880Z - info: Starting rendering request 39 (user: null)
+2020-07-17T18:12:49.881Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:12:53.072Z - info: Rendering request 39 finished in 3193 ms
+2020-07-17T18:13:03.933Z - info: Starting rendering request 40 (user: null)
+2020-07-17T18:13:03.934Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:13:07.735Z - info: Rendering request 40 finished in 3802 ms
+2020-07-17T18:16:04.438Z - info: Starting rendering request 41 (user: null)
+2020-07-17T18:16:04.440Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:16:08.891Z - info: Rendering request 41 finished in 4451 ms
+2020-07-17T18:16:34.446Z - info: Starting rendering request 42 (user: null)
+2020-07-17T18:16:34.447Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:16:38.223Z - info: Rendering request 42 finished in 3777 ms
+2020-07-17T18:17:24.768Z - info: Starting rendering request 43 (user: null)
+2020-07-17T18:17:24.769Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:17:28.496Z - info: Rendering request 43 finished in 3743 ms
+2020-07-17T18:17:53.753Z - info: Starting rendering request 44 (user: null)
+2020-07-17T18:17:53.754Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:17:57.475Z - info: Rendering request 44 finished in 3722 ms
+2020-07-17T18:18:09.226Z - info: Starting rendering request 45 (user: null)
+2020-07-17T18:18:09.228Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:18:13.387Z - info: Rendering request 45 finished in 4161 ms
+2020-07-17T18:18:32.092Z - info: Starting rendering request 46 (user: null)
+2020-07-17T18:18:32.093Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-07-17T18:18:35.753Z - info: Rendering request 46 finished in 3661 ms
+2020-07-17T18:19:56.301Z - info: Starting rendering request 47 (user: null)
+2020-07-17T18:19:56.325Z - warn: Rendering request 47 finished with error in 9 ms
+2020-07-17T18:19:56.354Z - warn: Error when processing render request 47 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:19:56.356Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:25:41.820Z - info: Starting rendering request 48 (user: null)
+2020-07-17T18:25:41.841Z - warn: Rendering request 48 finished with error in 8 ms
+2020-07-17T18:25:41.845Z - warn: Error when processing render request 48 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:25:41.864Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:26:05.245Z - info: Starting rendering request 49 (user: null)
+2020-07-17T18:26:05.248Z - warn: Rendering request 49 finished with error in 3 ms
+2020-07-17T18:26:05.250Z - warn: Error when processing render request 49 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:26:05.257Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:27:00.998Z - info: Starting rendering request 50 (user: null)
+2020-07-17T18:27:01.000Z - warn: Rendering request 50 finished with error in 2 ms
+2020-07-17T18:27:01.019Z - warn: Error when processing render request 50 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:27:01.021Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:27:41.004Z - info: Starting rendering request 51 (user: null)
+2020-07-17T18:27:41.016Z - warn: Rendering request 51 finished with error in 2 ms
+2020-07-17T18:27:41.021Z - warn: Error when processing render request 51 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:27:41.021Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:28:19.841Z - info: Starting rendering request 52 (user: null)
+2020-07-17T18:28:19.843Z - warn: Rendering request 52 finished with error in 3 ms
+2020-07-17T18:28:19.864Z - warn: Error when processing render request 52 Unable to find specified template or user doesnt have permissions to read it: first-template Error: Unable to find specified template or user doesnt have permissions to read it: first-template
+    at module.exports (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-core\lib\reporter.js:330:12)
+    at AsyncFunction.<anonymous> (C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\node_modules\jsreport-templates\lib\templates.js:144:20)
+2020-07-17T18:28:19.865Z - warn: Error during processing request at http://localhost:5488/api/report
+2020-07-17T18:29:55.087Z - info: Starting rendering request 53 (user: null)
+2020-07-17T18:29:55.090Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T18:29:59.781Z - info: Rendering request 53 finished in 4694 ms
+2020-07-17T18:31:32.987Z - info: Starting rendering request 54 (user: null)
+2020-07-17T18:31:32.989Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T18:31:36.978Z - info: Rendering request 54 finished in 3992 ms
+2020-07-17T18:38:56.096Z - info: Starting rendering request 55 (user: null)
+2020-07-17T18:38:56.113Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T18:39:00.055Z - info: Rendering request 55 finished in 3961 ms
+2020-07-17T18:41:09.970Z - info: Starting rendering request 56 (user: null)
+2020-07-17T18:41:09.988Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T18:41:13.433Z - info: Rendering request 56 finished in 3465 ms
+2020-07-17T18:54:06.505Z - info: Starting rendering request 57 (user: null)
+2020-07-17T18:54:06.508Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-07-17T18:54:09.489Z - info: Rendering request 57 finished in 2985 ms
+2020-08-05T12:59:05.567Z - info: Initializing jsreport@2.8.0 in development mode using configuration file: jsreport.config.json
+2020-08-05T12:59:05.571Z - info: Searching for available extensions in C:\Users\lenovo\Desktop\FELIPE\transversal\jsreportapp\
+2020-08-05T12:59:05.639Z - info: Extensions location cache doesn't contain entry yet, crawling
+2020-08-05T12:59:13.685Z - info: Found 35 extensions
+2020-08-05T12:59:14.657Z - info: Setting http-server strategy for rendering
+2020-08-05T12:59:15.266Z - info: Using extension cli@2.2.3
+2020-08-05T12:59:15.292Z - info: Using extension debug@2.1.3
+2020-08-05T12:59:15.325Z - info: Using extension express@2.6.0
+2020-08-05T12:59:16.019Z - info: Using extension freeze@2.0.0
+2020-08-05T12:59:16.065Z - info: Using extension handlebars@2.1.0
+2020-08-05T12:59:16.146Z - info: Using extension import-export@1.6.0
+2020-08-05T12:59:16.410Z - info: Using extension jsrender@2.1.1
+2020-08-05T12:59:16.414Z - info: Using extension tags@2.3.0
+2020-08-05T12:59:16.457Z - info: Using extension templates@2.3.3
+2020-08-05T12:59:16.498Z - info: Using extension authorization@2.3.0
+2020-08-05T12:59:16.536Z - info: Using extension base@2.0.2
+2020-08-05T12:59:16.541Z - info: Using extension browser-client@2.2.2
+2020-08-05T12:59:16.602Z - info: Using extension child-templates@1.3.2
+2020-08-05T12:59:16.643Z - info: Using extension chrome-pdf@1.8.0
+2020-08-05T12:59:16.961Z - info: Using extension data@2.2.0
+2020-08-05T12:59:16.992Z - info: Using extension docx@2.6.0
+2020-08-05T12:59:17.035Z - info: Using extension fs-store@2.8.0
+2020-08-05T12:59:17.466Z - info: Using extension licensing@2.2.2
+2020-08-05T12:59:17.491Z - info: Using extension pdf-utils@1.7.0
+2020-08-05T12:59:17.747Z - info: Using extension pptx@0.6.0
+2020-08-05T12:59:17.773Z - info: Using extension reports@2.3.0
+2020-08-05T12:59:17.807Z - info: Using extension static-pdf@0.3.1
+2020-08-05T12:59:17.845Z - info: Using extension studio@2.8.0
+2020-08-05T12:59:18.210Z - info: Using extension text@2.0.0
+2020-08-05T12:59:18.240Z - info: Using extension version-control@1.4.0
+2020-08-05T12:59:18.511Z - info: Using extension assets@1.5.3
+2020-08-05T12:59:18.561Z - info: Using extension html-to-xlsx@2.6.0
+2020-08-05T12:59:19.612Z - info: html-to-xlsx detected chrome as available html engine
+2020-08-05T12:59:19.614Z - info: Using extension scheduling@2.3.0
+2020-08-05T12:59:19.725Z - info: Using extension scripts@2.4.0
+2020-08-05T12:59:19.751Z - info: Using extension studio-theme-dark@0.3.0
+2020-08-05T12:59:19.780Z - info: Using extension xlsx@2.3.1
+2020-08-05T12:59:20.328Z - info: Using extension public-templates@2.1.0
+2020-08-05T12:59:20.353Z - info: Using extension resources@2.0.4
+2020-08-05T12:59:20.357Z - info: Using extension sample-template@2.5.1
+2020-08-05T12:59:20.390Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2020-08-05T12:59:20.391Z - info: Using fs provider for template store.
+2020-08-05T12:59:20.430Z - info: fs store is persisting using fs
+2020-08-05T12:59:20.435Z - info: fs store is synchronizing using fs
+2020-08-05T12:59:20.495Z - info: fs store is loading data
+2020-08-05T12:59:20.649Z - info: fs store is initialized successfully
+2020-08-05T12:59:20.714Z - info: Creating default express app.
+2020-08-05T12:59:20.806Z - info: jsreport server successfully started on http port: 5488
+2020-08-05T12:59:20.830Z - info: fs store emits sockets to synchronize underlying changes with studio
+2020-08-05T12:59:20.897Z - info: Verifying license key free
+2020-08-05T12:59:20.926Z - info: Using free license
+2020-08-05T12:59:20.968Z - info: reporter initialized
+2020-08-05T13:00:08.932Z - info: Starting rendering request 1 (user: null)
+2020-08-05T13:00:08.954Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-05T13:00:16.897Z - info: Starting rendering request 2 (user: null)
+2020-08-05T13:00:16.900Z - info: Rendering template { name: saludo, recipe: chrome-pdf, engine: handlebars, preview: true }
+2020-08-05T13:00:25.465Z - info: Rendering request 1 finished in 16534 ms
+2020-08-05T13:00:28.755Z - info: Rendering request 2 finished in 11858 ms
+2020-08-05T13:05:02.170Z - info: Starting rendering request 3 (user: null)
+2020-08-05T13:05:02.209Z - info: Rendering template { name: /saludo/saludo, recipe: chrome-pdf, engine: handlebars, preview: false }
+2020-08-05T13:05:13.477Z - info: Rendering request 3 finished in 11308 ms

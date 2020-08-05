@@ -1,0 +1,12 @@
+{
+    "shortid": "rJeQ0nIylD",
+    "name": "saludo-data",
+    "creationDate": {
+        "$$date": 1595006170597
+    },
+    "modificationDate": {
+        "$$date": 1595009887267
+    },
+    "_id": "eZgYNDgZrSQqsfBC",
+    "$entitySet": "data"
+}

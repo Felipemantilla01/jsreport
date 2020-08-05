@@ -1,0 +1,2 @@
+2020-07-15T16:51:47.074Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?
+undefined

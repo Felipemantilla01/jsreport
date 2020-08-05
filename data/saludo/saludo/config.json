@@ -1,0 +1,20 @@
+{
+    "shortid": "rkx022Lkew",
+    "name": "saludo",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1595006170597
+    },
+    "modificationDate": {
+        "$$date": 1595009910410
+    },
+    "_id": "EL0LgsK2k04D05qs",
+    "$entitySet": "templates",
+    "data": {
+        "shortid": "rJeQ0nIylD"
+    }
+}

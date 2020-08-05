@@ -1,0 +1,23 @@
+
+.tarjeta-presentacion-back{
+    border-style: solid;
+    border-width: 0.5px;
+    width:630px;
+    height: 380px;
+    background-image: url("{#asset assets/front.jpg @encoding=dataURI}"); 
+    background-size: contain
+}
+
+.tarjeta-presentacion-front{
+    border-style: solid;
+    width:630px;
+    height: 380px;
+    background-image: url("{#asset assets/logo.png @encoding=dataURI}"); 
+    background-size: contain
+}
+
+h1{
+    color:white;
+    font-size: 14px;
+    font-family:Monaco,Georgia,Times,serif;
+}
